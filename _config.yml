@@ -1,5 +1,3 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Swati Mirashi]
-description: [Aspiring Data Analyst skilled in data analytics, Excel, SQL, Python, and data visualization, passionate about uncovering actionable insights and growing into Data Science to deliver deeper business value.]
+title: Your Name
+logo: /images/hs.jpg
+theme: jekyll-theme-minimal
