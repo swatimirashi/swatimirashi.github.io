@@ -1,53 +1,72 @@
-# Hi there, I'm Swati Mirashi 👋
+# 👩‍💻 Swati Mirashi - Data Analytics Portfolio
 
-## 👩‍💻 About Me
-Hello...! My name is **Swati Mirashi**, and I am from Sindhudurg. I have completed my **BSc in Mathematics** from SP College Pune and am currently pursuing **MSc in Industrial Mathematics with Computer Applications (IMCA)** at Fergusson College.  
-
-I am passionate about using **technology to help businesses** and make solutions easily accessible. I love working on **web applications, data analysis, and research projects**.
+Hi there! I'm **Swati Mirashi**, a passionate **Data Analyst** with a strong foundation in Python, SQL, Excel, and Power BI. I love turning raw data into actionable insights and building dashboards and reports that help businesses make data-driven decisions. My goal is to continuously grow into **Data Science** to deliver deeper insights and predictive analytics.
 
 ---
 
-## 🛠 Skills
+## 🧠 Skills & Technologies
 
-**Programming & Web Development:**  
-HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL, Python, C, C++ (basic)  
-
-**Tools & Technologies:**  
-Git, GitHub, VS Code, MATLAB  
-
-**Other:**  
-Data Analysis, Database Management, Problem Solving, Project Development
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, FastAPI  
+- **Databases**: MySQL, Oracle  
+- **Tools**: Excel, Power BI, Power Query, DAX, Git, GitHub, Jupyter Notebook  
+- **Concepts**: Data Cleaning, Exploratory Data Analysis (EDA), Data Modeling, Data Visualization, Business Reporting, Statistical Analysis
 
 ---
 
-## 💼 Projects
+## 📁 Projects
 
-### 1. **Online Laundry Services Application**
-- **Description:** Web application to manage pickups, deliveries, and billing for a laundry business.  
-- **Technologies:** HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL  
-- **Features:** User booking panel, Admin dashboard, Delivery boy management panel  
-- [Project Link / Demo](#)
-
-### 2. **[Project Name]**
-- **Description:** Add a short description of another project here.  
-- **Technologies:** List the technologies  
-- [Project Link / Demo](#)
-
-*(Add more projects as needed)*
+### 1. 🥗 Pizza Sales Analysis
+**Goal**: Analyze sales data to identify top-selling items and revenue patterns.  
+**Tech Stack**: SQL, Excel  
+- Cleaned and analyzed pizza sales data  
+- Derived **actionable insights** for better business decision-making  
+[🔗 View Project](https://drive.google.com/file/d/1ZxzpFZTfYqWpP0yPHIqu89CRFspIWpn1/view?usp=drivesdk)
 
 ---
 
-## 📫 Contact Me
-
-- **Email:** [your email here]  
-- **Portfolio:** [https://www.swatimirashiportfolio.com](https://www.swatimirashiportfolio.com)  
-- **LinkedIn:** [LinkedIn Profile](#)  
-- **GitHub:** [GitHub Profile](https://github.com/swatimirashi)
-
----
-
-## 🌟 Let's Connect!
-I am open to **internships, fresher-level roles, and research projects** where I can contribute my skills in **web development, data analysis, and problem-solving**.
+### 2. 🪔 Diwali Sales Analysis
+**Goal**: Explore buying behavior during Diwali festival using sales data.  
+**Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn  
+- Performed **EDA** on sales data  
+- Created clear visualizations to support **marketing strategies**  
+[🔗 GitHub Repo](https://github.com/swatimirashi/diwali-sales-analysis)
 
 ---
 
+### 3. 🏦 Bank Loan Analysis Dashboard
+**Goal**: Provide insights on loan risk, customer profiles, and approval trends.  
+**Tech Stack**: Power BI, SQL, DAX  
+- Designed interactive **Power BI dashboard** with DAX calculations  
+- Validated data using SQL queries  
+[🔗 View Dashboard](https://drive.google.com/file/d/16CkVRkgIXjTRTkP1mz7EM8-U3ueaXDh-/view?usp=drivesdk)
+
+---
+
+## 💼 Internship Experience
+
+**Python Developer – Elendil Private Limited** *(Feb 2025 – Aug 2025)*  
+- Developed backend logic and optimized SQL queries for database efficiency  
+- Cleaned and validated sales, customer, and operations data in Excel and Python  
+- Built dashboards using Power BI and Python visualization libraries  
+
+---
+
+## 🏅 Certifications
+
+- **Python Programming** – ISO IT Education Centre  
+- **Introduction to Data Analytics** – Simplilearn  
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 Email: [swatimirashi298@gmail.com](mailto:swatimirashi298@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/swatimirashi)  
+- 📂 [Portfolio Website](https://www.swatimirashiportfolio.com)  
+- 🐙 [GitHub](https://github.com/swatimirashi)  
+- 🧩 [LeetCode](https://leetcode.com/swatimirashi)
+
+---
+
+> “Data is the new oil, and insights are the engines that drive business decisions.”
