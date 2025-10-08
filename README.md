@@ -1,27 +1,41 @@
 # 👩‍💻 Swati Mirashi - Data Analytics Portfolio
 
-Hi there! I'm **Swati Mirashi**, a passionate **Data Analyst** with a strong foundation in Python, SQL, Excel, and Power BI. I love turning raw data into actionable insights and building dashboards and reports that help businesses make data-driven decisions. My goal is to continuously grow into **Data Science** to deliver deeper insights and predictive analytics.
+Welcome to my data analytics portfolio! I turn raw data into meaningful insights using tools like Excel, SQL, Python, and Power BI. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
+
+---
+
+### 👤 Profile Summary
+
+- Postgraduate in **Industrial Mathematics with Computer Applications**, with strong **problem-solving** and **statistical skills**.  
+- **2 years of experience in Python, SQL, Power BI, and Excel**, applying these tools for **data analysis, visualization, and supporting data-driven decision-making**.  
+- Completed an **on-campus internship as a Python Developer**, gaining experience in **backend logic, database management, data cleaning, and visualization**.  
+- Proficient in **optimizing SQL queries** and supporting **data-driven decision-making**.  
+- Aiming to leverage **analytical skills** to **solve real-time problems** while continuously **growing in a data-focused profession**.  
 
 ---
 
 ## 🧠 Skills & Technologies
 
 - **Languages**: Python, SQL  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, FastAPI  
-- **Databases**: MySQL, Oracle  
-- **Tools**: Excel, Power BI, Power Query, DAX, Git, GitHub, Jupyter Notebook  
+- **Tools & Visualization**: Excel, Power BI, Google Sheets, Jupyter Notebook
+- **Databases**: MySQL, BigQuery 
+- **Cloud Platforms**: Google Cloud Platform (GCP)  
 - **Concepts**: Data Cleaning, Exploratory Data Analysis (EDA), Data Modeling, Data Visualization, Business Reporting, Statistical Analysis
 
 ---
 
 ## 📁 Projects
 
-### 1. 🥗 Pizza Sales Analysis
-**Goal**: Analyze sales data to identify top-selling items and revenue patterns.  
-**Tech Stack**: SQL, Excel  
-- Cleaned and analyzed pizza sales data  
-- Derived **actionable insights** for better business decision-making  
-[🔗 View Project](https://drive.google.com/file/d/1ZxzpFZTfYqWpP0yPHIqu89CRFspIWpn1/view?usp=drivesdk)
+# 🍕 Pizza Sales Analysis 
+
+**Goal:** Identify peak hours, pizza demand, top-selling items, average order value, and seating utilization to optimize operations and revenue.
+**Tech Stack:** SQL, Excel, Data Analysis
+- Analyzed **21,000+ orders** to extract actionable business insights  
+- Identified **peak hours and busiest days**, helping optimize staffing and kitchen operations  
+- Recommended **menu improvements and seating management** to increase revenue and efficiency  
+- Applied **SQL optimization techniques** to improve query efficiency, scalable for larger datasets  
+🔗 [View Project](https://github.com/swatimirashi/pizza-sales-analysis)
+
 
 ---
 
