@@ -1,7 +1,7 @@
 # Hi there, I'm Swati Mirashi 👋
 
 ## 👩‍💻 About Me
-Hello! My name is **Swati Mirashi**, and I am from Sindhudurg. I have completed my **BSc in Mathematics** from SP College Pune and am currently pursuing **MSc in Industrial Mathematics with Computer Applications (IMCA)** at Fergusson College.  
+Hello...! My name is **Swati Mirashi**, and I am from Sindhudurg. I have completed my **BSc in Mathematics** from SP College Pune and am currently pursuing **MSc in Industrial Mathematics with Computer Applications (IMCA)** at Fergusson College.  
 
 I am passionate about using **technology to help businesses** and make solutions easily accessible. I love working on **web applications, data analysis, and research projects**.
 
