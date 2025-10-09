@@ -84,4 +84,4 @@ Here, I turn raw data into meaningful insights and interactive dashboards using 
 
 ---
 
-> “Data is the new oil, and insights are the engines that drive business decisions.”
+> Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or connect.
