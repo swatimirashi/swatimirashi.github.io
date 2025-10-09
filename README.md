@@ -53,7 +53,7 @@ Welcome to my data analytics portfolio! I turn raw data into meaningful insights
 **Tech Stack**: Power BI, SQL, DAX  
 - Designed interactive **Power BI dashboard** with DAX calculations  
 - Validated data using SQL queries  
-[🔗 View Dashboard](https://drive.google.com/file/d/16CkVRkgIXjTRTkP1mz7EM8-U3ueaXDh-/view?usp=drivesdk)
+[🔗 GitHub Repo](https://swatimirashi.github.io/taxipaymentinsights/)
 
 ---
 
