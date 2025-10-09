@@ -1,6 +1,7 @@
 # 👩‍💻 Swati Mirashi - Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! I turn raw data into meaningful insights using tools like Excel, SQL, Python, and Power BI. With hands-on project experience and a solid academic background, I bring both analytical depth and business understanding to every challenge.
+**Welcome to my data analytics portfolio!** 
+Here, I turn raw data into meaningful insights and interactive dashboards using Excel, SQL, Python, and Power BI. My portfolio highlights real-world analytical projects that demonstrate my ability to solve problems, uncover trends, and support data-driven decision-making. With a strong academic background and a passion for continuous learning, I bring both technical expertise and business understanding — qualities that help organizations make smarter, insight-based decisions.
 
 ---
 
